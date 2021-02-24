@@ -1,0 +1,19 @@
+body {
+    background-color: #ffff;
+}
+
+.question .list-group-item {
+    border: none;
+}
+
+.card .result {
+    transition: 0.5s;
+}
+
+.card .result:hover  {
+    transition: 1s;
+}
+
+.space {
+    padding-bottom: 0!important;
+}
